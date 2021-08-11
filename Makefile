@@ -1,0 +1,3 @@
+CC=clang
+
+all: megarom
